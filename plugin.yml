@@ -1,0 +1,3 @@
+name: DynamicProxy
+main: com.cog3nt.experiments.dynamicproxy.DynamicProxyPlugin
+author: Brutus
